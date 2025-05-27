@@ -33,7 +33,7 @@ Clone this repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/gesture-recognition.git
+git clone https://github.com/Deepak4202/PRODIGY_ML_Task4/
 cd gesture-recognition
 Install dependencies:
 
