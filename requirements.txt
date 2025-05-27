@@ -1,0 +1,7 @@
+tensorflow — for loading and running your model
+
+opencv-python — for webcam capture and image processing
+
+numpy — for handling arrays and image data
+
+tk — for the file dialog (image upload GUI)
